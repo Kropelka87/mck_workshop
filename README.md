@@ -1,6 +1,8 @@
 ### Instalacja
 
-Projekt wymaga [Node.js](https://nodejs.org/) v8+ do uruchomienia.
+- [Node.js](https://nodejs.org/en/download/)  (v8+)
+
+- [GIT](https://git-scm.com/downloads)
 
 ```sh
 $ git clone https://github.com/grzeskiba/mck_workshop
